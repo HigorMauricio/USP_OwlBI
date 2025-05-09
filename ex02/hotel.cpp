@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << "resolução do exercicio https://neps.academy/br/exercise/2067";
+    cout << "resolução do exercicio https://neps.academy/br/exercise/2067\n";
     int D, A, N, valor;
     cin >> D >> A >> N;
     if(N == 1){

@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout << "resolucao exercicio https://neps.academy/br/exercise/335\n";
     int Xm, Ym, Xr, Yr, cruzamentosx, cruzamentosy, cruzamentos;
     cin >> Xm >> Ym >> Xr >> Yr;
     cruzamentosx = Xr - Xm;

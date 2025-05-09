@@ -4,6 +4,7 @@ using namespace std;
 int idade(int filho1, int filho2, int filho3);
 
 int main(){
+    cout << "resolucao exercicio https://neps.academy/br/exercise/463\n";
     int M, A, B, C, mais_velho;
     cin >> M >> A >> B;
     C = M - (A+B);
