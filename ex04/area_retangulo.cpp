@@ -1,0 +1,10 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+    int a, b, area;
+    cin >> a >> b;
+    area = a * b;
+    cout << area;
+    return 0;
+}
